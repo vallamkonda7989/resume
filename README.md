@@ -9,7 +9,7 @@
   <body>
     <table cellspacing="20" >
       <tr>
-        <td><img src="https://scontent.fmaa12-1.fna.fbcdn.net/v/t1.0-9/52720476_625965301154701_2748447549504356352_o.jpg?_nc_cat=105&ccb=1-3&_nc_sid=e3f864&_nc_ohc=ejGFaw46rjgAX8GBkEE&_nc_ht=scontent.fmaa12-1.fna&oh=2a3eb307858a137f27d7cc410ea459b1&oe=606EFC73" alt="sivakrishna" height="90px" width="90px"></td>
+        <td><img src="sivakrishna.jpg" alt="sivakrishna" height="90px" width="90px"></td>
         <td><h1>sivakrishna vallamkonda</h1>
         <p><strong>quick learner and smart thinker </strong></p>
         <p>i am an addictor to mathamatics</p></td>
@@ -35,7 +35,6 @@
       <tbody>
         <tr>
           <td>2013-2014</td>
-          <td>10th class</td>
           <td>AVRPM LITTLE ANGLES ENGLISH MEDIUM HIGH SCHOOL</td>
           <td>9.5</td>
         </tr>
